@@ -7,3 +7,5 @@ jeruk
 manggis
 
 pisang
+tomat
+terong
