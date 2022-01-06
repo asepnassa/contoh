@@ -1,3 +1,7 @@
 Apel
 mangga
 durian
+
+rambutan
+jeruk
+manggis
