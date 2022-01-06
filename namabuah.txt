@@ -5,3 +5,5 @@ durian
 rambutan
 jeruk
 manggis
+
+pisang
